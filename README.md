@@ -5,7 +5,7 @@ My name is Nim.
 **A-ha** moments
 >1. to be honest  
 >2. nothing has been
->3. an aha monent yet
+>3. an aha moment yet
 >
 **Two thing** that are still unclear
 >1. everything is still
