@@ -7,7 +7,7 @@ My name is Nim.
 >2. moment2
 >3. moment3
 >
->**Two thing** that are still unclear
+**Two thing** that are still unclear
 >1. something
 >2. second something
 >
