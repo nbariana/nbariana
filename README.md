@@ -3,13 +3,13 @@ A repository for my class code.
 My name is Nim.
 
 **A-ha** moments
->1. 
->2. 
->3. 
+>1. to be honest  
+>2. nothing has been
+>3. an aha monent yet
 >
 **Two thing** that are still unclear
->1. something
->2. second something
+>1. everything is still
+>2. unclear
 >
 
 I am feeling
