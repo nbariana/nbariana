@@ -1,16 +1,19 @@
-##  Hello
+A **cool** repository for my class code.
 
-<!--
-**nbariana/nbariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nim.
 
-Here are some ideas to get you started:
+**A-ha** moments
+>1. moment1
+>2. moment2
+>3. moment3
+>
+>**Two thing** that are still unclear
+>1. something
+>2. second something
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**word** for how you feeling
+>**feeling**
+>
+>**My favourite sandwich : club sub
+>![image](https://www.jerseymikes.ca/media/static/menu/products/lg/8-club-sub-reg.jpg)
