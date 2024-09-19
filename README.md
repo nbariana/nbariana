@@ -3,9 +3,9 @@ A repository for my class code.
 My name is Nim.
 
 **A-ha** moments
->1. moment1
->2. moment2
->3. moment3
+>1. 
+>2. 
+>3. 
 >
 **Two thing** that are still unclear
 >1. something
