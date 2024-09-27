@@ -2,13 +2,13 @@ A repository for my class code.
 
 My name is Nim.
 
-**A-ha** moments
->1. to be honest  
->2. nothing has been
->3. an aha moment yet
+**Three things** i learned
+>1. i learned how to create a repository  
+>2. waht strings and booleans are
+>3. difference betweenlet and const
 >
 **Two thing** that are still unclear
->1. everything is still
+>1. go tot git push lol
 >2. unclear
 >
 
