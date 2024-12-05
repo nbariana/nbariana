@@ -13,7 +13,8 @@ My name is Nim.
 >3. traditonal loops (not so confusing but harder to read, but for loops are easy)
 >
 
-Analogies/Metaphor? = functions are the sentences that convey meaning, variables are nouns, operators are action verbs :0 
+**Analogies/Metaphor**
+functions are the sentences that convey meaning, variables are nouns, operators are action verbs :0 
 
 I am feeling
 >**tired**
