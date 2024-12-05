@@ -14,7 +14,7 @@ My name is Nim.
 >
 
 **Analogies/Metaphor**
-functions are the sentences that convey meaning, variables are nouns, operators are action verbs :0 
+>functions are the sentences that convey meaning, variables are nouns, operators are action verbs :0 
 
 I am feeling
 >**tired**
