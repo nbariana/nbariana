@@ -7,9 +7,10 @@ My name is Nim.
 >2. waht strings and booleans are
 >3. difference betweenlet and const
 >
-**Two thing** that are still unclear
->1. go tot git push lol
->2. unclear
+**Three confusing things
+>1. I still struggle with git commands
+>2. Syntax is confusing sometimes
+>3. traditonal loops (not so confusing but harder to read, but for loops are easy)
 >
 
 I am feeling
@@ -20,3 +21,4 @@ My favourite sandwich
 >![image](https://www.jerseymikes.ca/media/static/menu/products/lg/8-club-sub-reg.jpg)
 
 hi
+>![image](![generating](https://github.com/user-attachments/assets/6883d476-b8ed-46f0-a7b9-3cea10ba3705)
