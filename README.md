@@ -21,4 +21,4 @@ My favourite sandwich
 >![image](https://www.jerseymikes.ca/media/static/menu/products/lg/8-club-sub-reg.jpg)
 
 hi
->![image](![generating](https://github.com/user-attachments/assets/6883d476-b8ed-46f0-a7b9-3cea10ba3705)
+>(![generating](https://github.com/user-attachments/assets/6883d476-b8ed-46f0-a7b9-3cea10ba3705)
